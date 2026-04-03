@@ -4,8 +4,28 @@
     "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
   },
   {
+    "name": "Azure",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-azure.png"
+  },
+  {
     "name": "Python",
     "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/color/48/000000/docker.png"
+  },
+  {
+    "name": "Jenkins",
+    "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+  },
+  {
+    "name": "Kubernetes",
+    "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
   },
   {
     "name": "JavaScript",
@@ -14,18 +34,6 @@
   {
     "name": "MySQL",
     "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-  },
-  {
-    "name": "ReactJS",
-    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-  },
-  {
-    "name": "NodeJS",
-    "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-  },
-  {
-    "name": "Bootstrap",
-    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
   },
   {
     "name": "HTML5",
