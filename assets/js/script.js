@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Cloud (AWS, Oracle, GCP)", "web development", "Python development"],
+    strings: ["Cloud (AWS, Azure, GCP)", "DevOps",  "Python development", "DevSecOps"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
